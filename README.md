@@ -1,5 +1,5 @@
 # Eureka - Java SpringBoot Powered
-Please use SpringCloudGateway Further - try to get badge
+Please use SpringCloudGateway Further - try to get badge Yolo
 
 
 
