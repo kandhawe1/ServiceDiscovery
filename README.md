@@ -1,4 +1,4 @@
-# Eureka - SpringBoot Powered
+# Eureka - Java SpringBoot Powered
 
 
 
